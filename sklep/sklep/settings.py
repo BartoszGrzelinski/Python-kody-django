@@ -55,7 +55,7 @@ ROOT_URLCONF = 'sklep.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['E:/Python kody django/sklep/Produkty/templates/produkty'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
